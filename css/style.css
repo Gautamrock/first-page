@@ -1,0 +1,37 @@
+body {
+  background-color: #9ED2C6;
+  font-style: oblique;
+  font-family: cursive;
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-color: #54BAB9;
+  border-width: 5px;
+  width: 5%;
+}
+H1
+{
+  color: #A10035;
+}
+H2
+{
+
+  color: #A10035;
+}
+h3
+{
+color: #A10035;
+
+}
+
+.Experience
+{
+  border: dotted;
+}
+
+.Qualification
+{
+  border: dotted;
+}
